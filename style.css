@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+    height:50px;
+    width:50px;
+    text-decoration: none;
+    border: 2px double royalblue;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+    color: chocolate;
+}
+h1 {
+    color: navy;
+    background-color: olive;
+}
+li {
+    font-size: 20px;
+    color :dodgerblue;
+
+}
+img:hover {
+    width: 100px;
+    height:100px;
+}
+body {
+    font-family: fantasy;
+}

@@ -24,6 +24,7 @@ li {
 img:hover {
     width: 100px;
     height:100px;
+    box-shadow: 5px 0 0 red;
 }
 body {
     font-family: fantasy;
